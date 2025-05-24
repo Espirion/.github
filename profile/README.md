@@ -34,6 +34,12 @@ The organization will host the following packages:
 | `espirion-icons`         | Icon system (SVG or font-based)                 |
 | `espirion-docs`          | Storybook-powered documentation site            |
 
+| Platform          | Prefix     | Example Component  |
+| ----------------- | ---------- | ------------------ |
+| **Core** | `esp-`     | `<esp-button>`     |
+| **Angular**       | `esp-ng-`  | `<esp-ng-button>`  |
+| **Ionic**         | `esp-ion-` | `<esp-ion-button>` |
+
 ---
 
 ## 📦 NPM Packages
