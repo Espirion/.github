@@ -26,13 +26,13 @@ The organization will host the following packages:
 
 | Repository              | Description                                     |
 |--------------------------|-------------------------------------------------|
-| [`espirion-core`](https://github.com/Espirion/espirion-core) | Base HTML/CSS/JS UI components |
-| `espirion-angular`       | Angular components built on the core            |
-| `espirion-ionic`         | Ionic Native components (mobile-ready)          |
-| `espirion-themes`        | Centralized theme definitions                   |
-| `espirion-tokens`        | Shared design tokens (colors, spacing, fonts)   |
-| `espirion-icons`         | Icon system (SVG or font-based)                 |
-| `espirion-docs`          | Storybook-powered documentation site            |
+| [`🔧 espirion-core`](https://github.com/Espirion/espirion-core) | Base HTML/CSS/JS UI components |
+| `🅰️ espirion-angular`       | Angular components built on the core            |
+| `📱 espirion-ionic`         | Ionic Native components (mobile-ready)          |
+| `🎨 espirion-themes`        | Centralized theme definitions                   |
+| `🎯 espirion-tokens`        | Shared design tokens (colors, spacing, fonts)   |
+| `🎨 espirion-icons`         | Icon system (SVG or font-based)                 |
+| `📚 espirion-docs`          | Storybook-powered documentation site            |
 
 | Platform          | Prefix     | Example Component  |
 | ----------------- | ---------- | ------------------ |
